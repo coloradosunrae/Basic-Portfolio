@@ -71,6 +71,7 @@ header a.active {
     margin: auto;
     margin-top: 20px;
     padding: 20px;
+    margin-bottom: 100px;
 
 }
 
@@ -100,6 +101,7 @@ p{
     width: 100%;
     margin-top: 3px;
     /* padding: 12px 20px; */
+    padding-top: 0;
 }
 
 .messageboxes {
